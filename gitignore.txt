@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[codz]
+*.so
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.env
+.env.*
+.envrc
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets / credentials
+credentials.json
+*_credentials.json
+
+# Browser login/session data
+realtor_login.json
+redfin_login.json
+*_login.json
+
+# Debug output
+debug_nav.png
+
+# Node
+node_modules/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
